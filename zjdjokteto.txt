@@ -1,3 +1,0 @@
-vless://a5a1e70f-0ea6-4ee4-9e72-4cce8c6a34b7@bsdoaf-bosanni.cloud.okteto.net:443?type=ws&security=tls&path=%2Fvl77q&host=bsdoaf-bosanni.cloud.okteto.net&sni=bsdoaf-bosanni.cloud.okteto.net#1
-vless://59dcd41b-4c57-4fea-be6b-c636fec2c90c@choaqq-bosanni.cloud.okteto.net:443?type=ws&security=tls&path=%2Fvl780&host=choaqq-bosanni.cloud.okteto.net&sni=choaqq-bosanni.cloud.okteto.net#2
-vless://ecb6b994-f5ec-4bf0-8505-28931003279e@hoqnor-bosanni.cloud.okteto.net:443?type=ws&security=tls&path=%2Fvl7uq&host=hoqnor-bosanni.cloud.okteto.net&sni=hoqnor-bosanni.cloud.okteto.net#3
