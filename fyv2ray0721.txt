@@ -3,3 +3,8 @@ vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@190.93.246.80:443?type=ws&security=
 vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@198.41.209.174:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=red-star.gsozba.ga&sni=red-star.gsozba.ga#03
 vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@190.93.245.230:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=polished-paper.gsozba.ga&sni=polished-paper.gsozba.ga#04
 vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@190.93.244.53:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=muddy-shape.gsozba.ga&sni=muddy-shape.gsozba.ga#05
+vless://730bf62e-aea7-4649-8a3f-f8868745f924@172.64.133.27:443?type=ws&security=tls&path=%2Fvlcuao9&host=winter-frost.sodfweno.cf&sni=winter-frost.sodfweno.cf#1
+vless://730bf62e-aea7-4649-8a3f-f8868745f924@198.41.222.246:443?type=ws&security=tls&path=%2Fvlcuao9&host=floral-night.sodfweno.cf&sni=floral-night.sodfweno.cf#2
+vless://730bf62e-aea7-4649-8a3f-f8868745f924@172.67.1.84:443?type=ws&security=tls&path=%2Fvlcuao9&host=little-breeze.sodfweno.cf&sni=little-breeze.sodfweno.cf#3
+vless://730bf62e-aea7-4649-8a3f-f8868745f924@198.41.196.80:443?type=ws&security=tls&path=%2Fvlcuao9&host=old-band.sodfweno.cf&sni=old-band.sodfweno.cf#4
+vless://730bf62e-aea7-4649-8a3f-f8868745f924@198.41.192.124:443?type=ws&security=tls&path=%2Fvlcuao9&host=square-scene.sodfweno.cf&sni=square-scene.sodfweno.cf#5
