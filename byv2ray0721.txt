@@ -3,8 +3,3 @@ vless://33b94981-ae30-4cbd-89e7-efe463a9e082@172.67.36.127:443?type=ws&security=
 vless://33b94981-ae30-4cbd-89e7-efe463a9e082@141.101.114.83:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=aged-grass.sodfweno.cf&sni=aged-grass.sodfweno.cf#03
 vless://33b94981-ae30-4cbd-89e7-efe463a9e082@198.41.208.251:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=floral-poetry.sodfweno.cf&sni=floral-poetry.sodfweno.cf#04
 vless://33b94981-ae30-4cbd-89e7-efe463a9e082@190.93.246.193:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=raspy-heart.sodfweno.cf&sni=raspy-heart.sodfweno.cf#05
-vless://9809a72d-11be-456a-be22-f4c3066cc146@172.64.130.22:443?type=ws&security=tls&path=%2Fvlbduo3&host=white-fog.gsozba.ga&sni=white-fog.gsozba.ga#1
-vless://9809a72d-11be-456a-be22-f4c3066cc146@172.64.161.38:443?type=ws&security=tls&path=%2Fvlbduo3&host=broken-cherry.gsozba.ga&sni=broken-cherry.gsozba.ga#2
-vless://9809a72d-11be-456a-be22-f4c3066cc146@172.64.132.192:443?type=ws&security=tls&path=%2Fvlbduo3&host=orange-cell.gsozba.ga&sni=orange-cell.gsozba.ga#3
-vless://9809a72d-11be-456a-be22-f4c3066cc146@172.64.174.14:443?type=ws&security=tls&path=%2Fvlbduo3&host=tight-smoke.gsozba.ga&sni=tight-smoke.gsozba.ga#4
-vless://9809a72d-11be-456a-be22-f4c3066cc146@172.66.43.177:443?type=ws&security=tls&path=%2Fvlbduo3&host=snowy-queen.gsozba.ga&sni=snowy-queen.gsozba.ga#5
