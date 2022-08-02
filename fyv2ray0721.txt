@@ -1,5 +1,1 @@
-vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@198.41.208.153:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=summer-grass.gsozba.ga&sni=summer-grass.gsozba.ga#01
-vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@190.93.246.80:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=solitary-leaf.gsozba.ga&sni=solitary-leaf.gsozba.ga#02
-vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@198.41.209.174:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=red-star.gsozba.ga&sni=red-star.gsozba.ga#03
-vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@190.93.245.230:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=polished-paper.gsozba.ga&sni=polished-paper.gsozba.ga#04
-vless://f27ec12b-45f4-4e0c-8507-3a68aa024f54@190.93.244.53:443?type=ws&security=tls&path=%2Ff27ec12b-45f4-4e0c-8507-3a68aa024f54&host=muddy-shape.gsozba.ga&sni=muddy-shape.gsozba.ga#05
+
