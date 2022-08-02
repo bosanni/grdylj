@@ -1,5 +1,1 @@
-vless://33b94981-ae30-4cbd-89e7-efe463a9e082@172.64.154.187:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=young-pond.sodfweno.cf&sni=young-pond.sodfweno.cf#01
-vless://33b94981-ae30-4cbd-89e7-efe463a9e082@172.67.36.127:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=morning-surf.sodfweno.cf&sni=morning-surf.sodfweno.cf#02
-vless://33b94981-ae30-4cbd-89e7-efe463a9e082@141.101.114.83:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=aged-grass.sodfweno.cf&sni=aged-grass.sodfweno.cf#03
-vless://33b94981-ae30-4cbd-89e7-efe463a9e082@198.41.208.251:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=floral-poetry.sodfweno.cf&sni=floral-poetry.sodfweno.cf#04
-vless://33b94981-ae30-4cbd-89e7-efe463a9e082@190.93.246.193:443?type=ws&security=tls&path=%2F33b94981-ae30-4cbd-89e7-efe463a9e082&host=raspy-heart.sodfweno.cf&sni=raspy-heart.sodfweno.cf#05
+
