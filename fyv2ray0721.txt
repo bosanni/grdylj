@@ -1,5 +1,5 @@
-vless://f60b11d9-565e-47a8-9f23-0cdefe7414d0@198.41.208.153:443?type=ws&security=tls&path=%2Ff60b11d9-565e-47a8-9f23-0cdefe7414d0&host=round-grass.gsozba.ga&sni=round-grass.gsozba.ga&alpn=#01
-vless://f60b11d9-565e-47a8-9f23-0cdefe7414d0@190.93.246.80:443?type=ws&security=tls&path=%2Ff60b11d9-565e-47a8-9f23-0cdefe7414d0&host=white-credit.gsozba.ga&sni=white-credit.gsozba.ga&alpn=#02
-vless://f60b11d9-565e-47a8-9f23-0cdefe7414d0@198.41.209.174:443?type=ws&security=tls&path=%2Ff60b11d9-565e-47a8-9f23-0cdefe7414d0&host=dawn-feather.gsozba.ga&sni=dawn-feather.gsozba.ga&alpn=#03
-vless://f60b11d9-565e-47a8-9f23-0cdefe7414d0@190.93.245.230:443?type=ws&security=tls&path=%2Ff60b11d9-565e-47a8-9f23-0cdefe7414d0&host=white-boat.gsozba.ga&sni=white-boat.gsozba.ga&alpn=#04
-vless://f60b11d9-565e-47a8-9f23-0cdefe7414d0@190.93.244.53:443?type=ws&security=tls&path=%2Ff60b11d9-565e-47a8-9f23-0cdefe7414d0&host=rough-cherry.gsozba.ga&sni=rough-cherry.gsozba.ga&alpn=#05
+vless://44e5d557-be96-4495-ae08-2343b6e0ff16@198.41.208.153:443?type=ws&security=tls&path=%2F44e5d557-be96-4495-ae08-2343b6e0ff16&host=super-meadow.sodfweno.cf&sni=super-meadow.sodfweno.cf#01
+vless://44e5d557-be96-4495-ae08-2343b6e0ff16@190.93.246.80:443?type=ws&security=tls&path=%2F44e5d557-be96-4495-ae08-2343b6e0ff16&host=flat-firefly.sodfweno.cf&sni=flat-firefly.sodfweno.cf#02
+vless://44e5d557-be96-4495-ae08-2343b6e0ff16@198.41.209.174:443?type=ws&security=tls&path=%2F44e5d557-be96-4495-ae08-2343b6e0ff16&host=curly-sound.sodfweno.cf&sni=curly-sound.sodfweno.cf#03
+vless://44e5d557-be96-4495-ae08-2343b6e0ff16@190.93.245.230:443?type=ws&security=tls&path=%2F44e5d557-be96-4495-ae08-2343b6e0ff16&host=cool-bar.sodfweno.cf&sni=cool-bar.sodfweno.cf#04
+vless://44e5d557-be96-4495-ae08-2343b6e0ff16@190.93.244.53:443?type=ws&security=tls&path=%2F44e5d557-be96-4495-ae08-2343b6e0ff16&host=empty-bread.sodfweno.cf&sni=empty-bread.sodfweno.cf#05
