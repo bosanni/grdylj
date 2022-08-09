@@ -1,5 +1,5 @@
-vless://bdf6498f-2d0f-429e-9ae2-605462181f10@172.64.154.187:443?type=ws&security=tls&path=%2Fbdf6498f-2d0f-429e-9ae2-605462181f10&host=mute-hat.quocnf.ml&sni=mute-hat.quocnf.ml&alpn=#01
-vless://bdf6498f-2d0f-429e-9ae2-605462181f10@172.67.36.127:443?type=ws&security=tls&path=%2Fbdf6498f-2d0f-429e-9ae2-605462181f10&host=flat-sky.quocnf.ml&sni=flat-sky.quocnf.ml&alpn=#02
-vless://bdf6498f-2d0f-429e-9ae2-605462181f10@141.101.114.83:443?type=ws&security=tls&path=%2Fbdf6498f-2d0f-429e-9ae2-605462181f10&host=soft-band.quocnf.ml&sni=soft-band.quocnf.ml&alpn=#03
-vless://bdf6498f-2d0f-429e-9ae2-605462181f10@198.41.208.251:443?type=ws&security=tls&path=%2Fbdf6498f-2d0f-429e-9ae2-605462181f10&host=falling-truth.quocnf.ml&sni=falling-truth.quocnf.ml&alpn=#04
-vless://bdf6498f-2d0f-429e-9ae2-605462181f10@190.93.246.193:443?type=ws&security=tls&path=%2Fbdf6498f-2d0f-429e-9ae2-605462181f10&host=shrill-surf.quocnf.ml&sni=shrill-surf.quocnf.ml&alpn=#05
+vless://1be41d00-6061-4587-985c-ae5867d85003@172.64.144.140:443?type=ws&security=tls&path=%2F1be41d00-6061-4587-985c-ae5867d85003&host=rapid-mud.gsozba.ga&sni=rapid-mud.gsozba.ga#01
+vless://1be41d00-6061-4587-985c-ae5867d85003@190.93.247.143:443?type=ws&security=tls&path=%2F1be41d00-6061-4587-985c-ae5867d85003&host=old-smoke.gsozba.ga&sni=old-smoke.gsozba.ga#02
+vless://1be41d00-6061-4587-985c-ae5867d85003@172.64.158.9:443?type=ws&security=tls&path=%2F1be41d00-6061-4587-985c-ae5867d85003&host=gentle-recipe.gsozba.ga&sni=gentle-recipe.gsozba.ga#03
+vless://1be41d00-6061-4587-985c-ae5867d85003@172.64.155.132:443?type=ws&security=tls&path=%2F1be41d00-6061-4587-985c-ae5867d85003&host=super-leaf.gsozba.ga&sni=super-leaf.gsozba.ga#04
+vless://1be41d00-6061-4587-985c-ae5867d85003@141.101.114.189:443?type=ws&security=tls&path=%2F1be41d00-6061-4587-985c-ae5867d85003&host=crimson-union.gsozba.ga&sni=crimson-union.gsozba.ga#05
