@@ -1,5 +1,5 @@
-vless://df9d0282-67cb-4633-9860-054e137406e4@198.41.209.18:443?type=ws&security=tls&path=%2Fdf9d0282-67cb-4633-9860-054e137406e4&host=morning-brook.taobfmz.cf&sni=morning-brook.taobfmz.cf&alpn=#01
-vless://df9d0282-67cb-4633-9860-054e137406e4@198.41.209.18:443?type=ws&security=tls&path=%2Fdf9d0282-67cb-4633-9860-054e137406e4&host=broken-mode.taobfmz.cf&sni=broken-mode.taobfmz.cf&alpn=#02
-vless://df9d0282-67cb-4633-9860-054e137406e4@172.64.156.244:443?type=ws&security=tls&path=%2Fdf9d0282-67cb-4633-9860-054e137406e4&host=rough-rain.taobfmz.cf&sni=rough-rain.taobfmz.cf&alpn=#03
-vless://df9d0282-67cb-4633-9860-054e137406e4@172.64.147.126:443?type=ws&security=tls&path=%2Fdf9d0282-67cb-4633-9860-054e137406e4&host=old-shape.taobfmz.cf&sni=old-shape.taobfmz.cf&alpn=#4
-vless://df9d0282-67cb-4633-9860-054e137406e4@198.41.208.167:443?type=ws&security=tls&path=%2Fdf9d0282-67cb-4633-9860-054e137406e4&host=still-art.taobfmz.cf&sni=still-art.taobfmz.cf&alpn=#05
+vless://3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2@198.41.209.18:443?type=ws&security=tls&path=%2F3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2&host=tiny-snowflake.taobfmz.cf&sni=tiny-snowflake.taobfmz.cf#01
+vless://3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2@172.64.148.67:443?type=ws&security=tls&path=%2F3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2&host=muddy-dust.taobfmz.cf&sni=muddy-dust.taobfmz.cf#02
+vless://3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2@172.64.156.244:443?type=ws&security=tls&path=%2F3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2&host=withered-glitter.taobfmz.cf&sni=withered-glitter.taobfmz.cf#03
+vless://3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2@172.64.147.126:443?type=ws&security=tls&path=%2F3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2&host=twilight-thunder.taobfmz.cf&sni=twilight-thunder.taobfmz.cf#04
+vless://3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2@198.41.208.167:443?type=ws&security=tls&path=%2F3e8d48bf-ba24-4ac5-bd3b-465f1ebf2ae2&host=twilight-silence.taobfmz.cf&sni=twilight-silence.taobfmz.cf#05
